@@ -310,4 +310,51 @@ Example
 
 git add .
 
-Screenshot Proof :
+Screenshot Proof : ![alt text](image-18.png)
+
+21. git add -p
+
+Syntax
+
+git add -p
+
+Purpose
+
+Allows interactive staging of parts of files.
+
+Example
+
+git add -p  
+ 
+screenshot: ![alt text](image-19.png)
+
+git restore
+
+Syntax
+
+git restore <file-name>
+
+Purpose
+
+Restores the working directory file to the last committed state.
+
+Example
+
+git restore index.html
+
+
+24. git rm
+
+Syntax
+
+git rm <file-name>
+
+Purpose
+
+Deletes a file from the working directory and stages the removal.
+
+Example
+
+git rm index.html
+
+Screenshot Proof:

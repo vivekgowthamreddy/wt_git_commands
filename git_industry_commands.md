@@ -295,3 +295,19 @@ Example
 git add index.html
 
 screenshot:![alt text](image-17.png)
+
+20. git add .
+
+Syntax
+
+git add .
+
+Purpose
+
+Adds all modified and new files in the current directory to the staging area.
+
+Example
+
+git add .
+
+Screenshot Proof :
